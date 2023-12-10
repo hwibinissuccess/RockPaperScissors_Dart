@@ -53,4 +53,5 @@ String getResult(String userInput, String cpuInput) {
       result = '올바른 값을 입력해주세요';
   }
   return result;
+
 }
